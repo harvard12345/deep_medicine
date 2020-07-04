@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Deep Medicine</string>
+    <string name="choose_file">Choose file</string>
+    <string name="enter_file_name">Enter file name</string>
+    <string name="upload">Upload</string>
+    <string name="show_uploads">Show Uploads</string>
+    <string name="choose_an_image">Choose an image</string>
+    <string name="todo">TODO</string>
+    <string name="classify">Classify</string>
+    <string name="labels">Label  </string>
+    <string name="probability">Probability</string>
+    <string name="classification_result">Classification Result</string>
+    <string name="image_classification">Image classification</string>
+    <string name="malaria_detector">Malaria Detector</string>
+    <string name="classification_metrics">Parameters &amp; Metrics</string>
+    <string name="about">About</string>
+    <string name="deep_medicine">Deep Medicine</string>
+    <string name="back">Back</string>
+    <string name="learning_rate">Learning Rate</string>
+    <string name="learning_rate_value">0.00001</string>
+    <string name="architecture">Architecture</string>
+    <string name="architecture_value">MobileNetV2</string>
+    <string name="optimizer">Optimizer</string>
+    <string name="optimizer_value">RMSprop</string>
+    <string name="loss">Loss</string>
+    <string name="loss_value">BinaryCrossEntropy</string>
+    <string name="fine_tune_layers_value">55 out of 155</string>
+    <string name="fine_tune_layers">Fine-tune layers</string>
+    <string name="parameter">Parameter</string>
+    <string name="value">Value</string>
+    <string name="input_size">Input Size</string>
+    <string name="input_size_value">224x224x3</string>
+    <string name="number_of_epochs_value">20</string>
+    <string name="number_of_epochs">Number of epochs</string>
+    <string name="aboutText">Malaria is a deadly, infectious, mosquito-borne disease caused by Plasmodium parasites that are transmitted by the bites of infected female Anopheles mosquitoes. There are five parasites that cause malaria, but two types—P. falciparum and P. vivax—cause the majority of the cases</string>
+</resources>
